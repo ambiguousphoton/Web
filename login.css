@@ -1,0 +1,36 @@
+form
+{
+   margin:0px auto 100px;
+   width: 220px;
+   padding-left: 25px;
+    padding-right: 0px;
+    padding-bottom: 25px;
+    background-color: inherit;
+
+}
+body
+{
+    background-image: url(https://wallpaperaccess.com/full/5508543.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a
+{
+  text-decoration: none;
+}
+div
+{
+  margin:100px auto 0px;
+  width: 220px;
+  text-align: center;
+}
+.form
+{
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.header
+{
+  margin-bottom: 0px;
+}
